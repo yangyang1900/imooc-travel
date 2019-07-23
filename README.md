@@ -34,4 +34,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 课程地址：https://coding.imooc.com/learn/list/203.html
 
 Vue学习，参考慕课网vue2.5去哪儿实战，我使用的是vue-cli 3.x
->>>>>>> 53de9b3d9006e0950edf0fd07ea3f229a51ad065
+
