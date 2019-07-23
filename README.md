@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# movie_view
+
+# imooc-travel
 
 ## Project setup
 ```
